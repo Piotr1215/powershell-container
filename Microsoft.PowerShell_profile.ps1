@@ -1,0 +1,1 @@
+$env:PSModulePath = $env:PSModulePath + ":/root/powershell-scripts/Modules/"
